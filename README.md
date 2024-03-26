@@ -1,1 +1,1 @@
-# EEEC10008 OOP
+# EEEC10008 Object-Oriented Programming
