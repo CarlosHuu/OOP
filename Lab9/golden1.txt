@@ -1,0 +1,79 @@
+
+口======= Year 0 =======口
+   workforce: 8
+   foodstuff: 100
+      timber: 0
+     mineral: 
+口======================口
+           ↓↓↓           
+口======= Year 1 =======口
+   workforce: 16
+   foodstuff: 150.4
+      timber: 0.5
+     mineral: S
+口======================口
+           ↓↓↓           
+口======= Year 2 =======口
+   workforce: 24
+   foodstuff: 191.2
+      timber: 1
+     mineral: SS
+口======================口
+           ↓↓↓           
+口======= Year 3 =======口
+   workforce: 32
+   foodstuff: 222.4
+      timber: 2.5
+     mineral: SSB
+口======================口
+           ↓↓↓           
+口======= Year 4 =======口
+   workforce: 40
+   foodstuff: 244
+      timber: 5
+     mineral: SSBS
+口======================口
+           ↓↓↓           
+口======= Year 5 =======口
+   workforce: 48
+   foodstuff: 256
+      timber: 8.2
+     mineral: SSBSG
+口======================口
+           ↓↓↓           
+口======= Year 6 =======口
+   workforce: 56
+   foodstuff: 258.4
+      timber: 13
+     mineral: SSBSGB
+口======================口
+           ↓↓↓           
+口======= Year 7 =======口
+   workforce: 64
+   foodstuff: 251.2
+      timber: 18
+     mineral: SSBSGBS
+口======================口
+           ↓↓↓           
+口======= Year 8 =======口
+   workforce: 72
+   foodstuff: 234.4
+      timber: 23
+     mineral: SSBSGBSB
+口======================口
+           ↓↓↓           
+口======= Year 9 =======口
+   workforce: 80
+   foodstuff: 208
+      timber: 33
+     mineral: SSBSGBSBG
+口======================口
+           ↓↓↓           
+口======= Year 10 =======口
+   workforce: 88
+   foodstuff: 172
+      timber: 43
+     mineral: SSBSGBSBGD
+口======================口
+
+Found dimands. Your kingdom is prosperous :)

@@ -1,0 +1,65 @@
+
+口======= Year 0 =======口
+   workforce: 8
+   foodstuff: 50
+      timber: 0
+     mineral: 
+口======================口
+           ↓↓↓           
+口======= Year 1 =======口
+   workforce: 12
+   foodstuff: 60.4
+      timber: 0.2
+     mineral: S
+口======================口
+           ↓↓↓           
+口======= Year 2 =======口
+   workforce: 16
+   foodstuff: 66
+      timber: 1.8
+     mineral: SS
+口======================口
+           ↓↓↓           
+口======= Year 3 =======口
+   workforce: 20
+   foodstuff: 66.8
+      timber: 9
+     mineral: SSG
+口======================口
+           ↓↓↓           
+口======= Year 4 =======口
+   workforce: 24
+   foodstuff: 62.8
+      timber: 13.15
+     mineral: SSGB
+口======================口
+           ↓↓↓           
+口======= Year 5 =======口
+   workforce: 28
+   foodstuff: 54
+      timber: 13.38
+     mineral: SSGBB
+口======================口
+           ↓↓↓           
+口======= Year 6 =======口
+   workforce: 32
+   foodstuff: 40.4
+      timber: 17.18
+     mineral: SSGBBG
+口======================口
+           ↓↓↓           
+口======= Year 7 =======口
+   workforce: 36
+   foodstuff: 22
+      timber: 23.85
+     mineral: SSGBBGS
+口======================口
+           ↓↓↓           
+口======= Year 8 =======口
+   workforce: 40
+   foodstuff: -1.2
+      timber: 32.85
+     mineral: SSGBBGSG
+口======================口
+
+Run out of foodstuff. Your kingdom collapses X(
