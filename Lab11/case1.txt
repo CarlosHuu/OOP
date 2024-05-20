@@ -1,0 +1,13 @@
+6
+a 1
+b 3
+c 5
+d 2
+and 50
+or 30
+7
+a b c d g3 g1 g2
+3
+or g3 g1 g2
+or g1 a b
+and g2 c d

@@ -1,0 +1,22 @@
+11
+a 1
+b 3
+c 5
+d 2
+e 3
+f 7
+g 8
+h 5
+and 40
+nand 50
+xor 30
+15
+a b c d e f g h g1 g2 g3 g4 g5 g6 g7
+7
+nand g1 a b
+and g2 c d
+nand g3 e f
+nand g4 g h
+xor g5 g3 g4
+xor g6 g1 g2
+xor g7 g2 g5
